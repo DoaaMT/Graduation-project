@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "622264998809",
+    "firebase_url": "https://saudi-etate-roject.firebaseio.com",
+    "project_id": "saudi-etate-roject",
+    "storage_bucket": "saudi-etate-roject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622264998809:android:8f8a980119dc61be",
+        "android_client_info": {
+          "package_name": "com.example.saudiestate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622264998809-vf0f30a8b1gnsto9mg20fbualcfnvkgr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saudiestate",
+            "certificate_hash": "7251dbe00e6c30ec7f390c3361f307056ff02572"
+          }
+        },
+        {
+          "client_id": "622264998809-s3ep8g1gj1uru6e8cefemclc50l78of5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ1u0aN37fQDVq1c8qNEdqbKNQ9im8OR8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622264998809-s3ep8g1gj1uru6e8cefemclc50l78of5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

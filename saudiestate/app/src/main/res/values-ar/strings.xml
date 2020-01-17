@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">عقار السعودية</string>
+    <string name="editText3">الاسم الاول</string>
+    <string name="editText4">الاسم الاخير</string>
+    <string name="editText5">اسم المستخدم</string>
+    <string name="editText6">كلمة المرور</string>
+    <string name="editText7">تأكيد كلمة المرور</string>
+    <string name="editText8">البريد الالكتروني</string>
+    <string name="editText9">رقم الجوال</string>
+    <string name="button">تسجيل</string>
+    <string name="button1">دخول</string>
+    <string name="textView3">تسيت كلمة المرور ؟</string>
+    <string name="all_req">جميع الحقول مطلوبة !</string>
+    <string name="close">إغلاق</string>
+    <string name="singing">جاري التسجيل ..!</string>
+    <string name="pas_conf">كلمة المرور و تأكيد كلمة المرور غير متطابقين !</string>
+    <string name="email_pattern">البريد المدخل غير  صحيح</string>
+    <string name="my_est">عقاراتي</string>
+    <string name="fav">المفضلة</string>
+    <string name="colliction">المجموعة</string>
+    <string name="chat">المحادثات</string>
+    <string name="notification">الإشعارات</string>
+    <string name="settings">الإعدادات</string>
+    <string name="home">الرئيسية</string>
+
+</resources>

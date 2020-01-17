@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Saudi Estate</string>
+    <string name="editText3">First name</string>
+    <string name="editText4">Last name</string>
+    <string name="editText5">User name</string>
+    <string name="editText6">Password</string>
+    <string name="editText7">Confirm Password</string>
+    <string name="editText8">Email</string>
+    <string name="editText9">Phone number</string>
+    <string name="button">Sign up</string>
+    <string name="button1">Log in</string>
+    <string name="textView3">Forgot password?</string>
+    <string name="all_req">All Field Required !</string>
+    <string name="close">CLOSE</string>
+    <string name="my_est">My Estates</string>
+    <string name="fav">Favourite</string>
+    <string name="colliction">Colliction</string>
+    <string name="chat">Chat</string>
+    <string name="notification">Notification</string>
+    <string name="settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="singing">Sign Up ... !</string>
+    <string name="pas_conf">Password and password confirmation do not match!</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="email_pattern">Email Not Valid !</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

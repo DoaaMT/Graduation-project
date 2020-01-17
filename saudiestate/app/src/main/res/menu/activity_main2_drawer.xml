@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/action_main"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/home" />
+ <item
+            android:id="@+id/action_my_estates"
+            android:icon="@drawable/my_est"
+            android:title="@string/my_est" />
+
+        <item
+            android:id="@+id/action_fav"
+            android:icon="@drawable/fav"
+            android:title="@string/fav" />
+
+        <item
+            android:id="@+id/action_colliction"
+            android:icon="@drawable/colliction"
+            android:title="@string/colliction" />
+        <item
+            android:id="@+id/action_chat"
+            android:icon="@drawable/chat_speech_bubbles"
+            android:title="@string/chat" />
+    </group>
+
+    <item >
+        <menu>
+            <item
+                android:id="@+id/action_notfication"
+                android:icon="@drawable/ic_notifications_active_black_24dp"
+                android:title="@string/notification" />
+            <item
+                android:id="@+id/action_setting"
+                android:icon="@drawable/ic_settings_black_24dp"
+                android:title="@string/settings" />
+        </menu>
+    </item>
+
+</menu>
