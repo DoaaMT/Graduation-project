@@ -1,7 +1,5 @@
-# My graduated project was about Saudi estates. 
-- it is a mobile application designed and developed for android operating system 
-to help people that like to get estates without wasting much time.
-- now you can search for estate from anywhere without having to go there and you have an ability to contact with the sellers.. 
+# My graduated project was about Saudi estates.. it is a mobile application designed and developed for android operating system to help people that like to get estates without wasting much time.
+> now you can search for estate from anywhere without having to go there and you have an ability to contact with the sellers.. 
 There are some of the main features of our project:
 - You can search by Specifications search or by location with (near me) feature.
 - We have Support travel flow data from Google Map.
