@@ -12,3 +12,18 @@ There are some of the main features of our project:
 - The application support both Arabic and English languages according to the user's choice.
 My role within the project was about written the codes in collaboration with my team, design interfaces with description, 
 development method, ERD diagram, activity diagram and the questionnaire.
+![](Interfaces/1.GIF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
